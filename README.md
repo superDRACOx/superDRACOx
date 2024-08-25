@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @superDRACOx
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m @K1ngsman
+- 👀 I’m interested in 3d art and animations
+- 🌱 I’m currently building a game
 
 
 
