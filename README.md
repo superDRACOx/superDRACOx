@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @K1ngsman
-- 👀 I’m interested in 3d art and animations
-- 🌱 I’m currently building a game
+- 👋 Hi!
+- 👀 I’m interested in the world of RF and Microwave engineering
+- 🌱 Mastering concepts one step at a time 
 
 
 
